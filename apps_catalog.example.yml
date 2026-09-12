@@ -1,0 +1,4 @@
+- id: default
+  url: https://app.yunohost.org/default
+- id: arcenal
+  url: https://raw.githubusercontent.com/arcenal-coder/arcenal-catalog/main

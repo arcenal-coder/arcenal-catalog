@@ -10,3 +10,6 @@ https://raw.githubusercontent.com/arcenal-coder/arcenal-catalog/main
 ```
 
 ARCenal Agent est basé sur Hermes Agent par Nous Research.
+
+Le fichier [`apps_catalog.example.yml`](apps_catalog.example.yml) conserve le
+catalogue officiel et ajoute le catalogue ARCenal.
