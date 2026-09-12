@@ -11,10 +11,10 @@
         "revision": "db23a7bcf3a5883dded1db6e3bea7266dacf371e",
         "url": "https://github.com/arcenal-coder/arcenal_ynh"
       },
-      "high_quality": false,
+      "high_quality": true,
       "id": "arcenal",
       "lastUpdate": 1789257600,
-      "level": 0,
+      "level": 8,
       "maintained": true,
       "manifest": {
         "description": {
