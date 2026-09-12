@@ -1,0 +1,53 @@
+{
+  "apps": {
+    "arcenal": {
+      "added_in_catalog": 1789257600,
+      "alternative_branches": {},
+      "antifeatures": [],
+      "category": "system_tools",
+      "featured": true,
+      "git": {
+        "branch": "main",
+        "revision": "db23a7bcf3a5883dded1db6e3bea7266dacf371e",
+        "url": "https://github.com/arcenal-coder/arcenal_ynh"
+      },
+      "high_quality": false,
+      "id": "arcenal",
+      "lastUpdate": 1789257600,
+      "level": 0,
+      "maintained": true,
+      "manifest": {
+        "description": {
+          "en": "AI supervisor for ARCenal System, based on Hermes Agent by Nous Research",
+          "fr": "Superviseur IA d’ARCenal Système, basé sur Hermes Agent de Nous Research"
+        },
+        "id": "arcenal",
+        "integration": {
+          "architectures": ["amd64", "arm64"],
+          "disk": "2G",
+          "helpers_version": "2.1",
+          "ldap": "not_relevant",
+          "multi_instance": false,
+          "ram": {"build": "1500M", "runtime": "1G"},
+          "sso": "not_relevant",
+          "yunohost": ">= 12.1.17"
+        },
+        "maintainers": ["compteonyx"],
+        "name": "ARCenal Agent",
+        "packaging_format": 2,
+        "upstream": {
+          "code": "https://github.com/arcenal-coder/arcenal-agent",
+          "license": "MIT",
+          "website": "https://github.com/arcenal-coder/arcenal-agent"
+        },
+        "version": "0.21.0~ynh20"
+      },
+      "potential_alternative_to": [],
+      "state": "working",
+      "subtags": []
+    }
+  },
+  "antifeatures": [],
+  "categories": [],
+  "security": {"apps": {}, "system": {}, "version": 1}
+}
