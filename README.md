@@ -6,7 +6,7 @@ YunoHost 12 stable. Le catalogue est consommé directement depuis GitHub.
 URL à déclarer dans `/etc/yunohost/apps_catalog.yml` :
 
 ```text
-https://raw.githubusercontent.com/arcenal-coder/arcenal-catalog/main
+https://arcenal-coder.github.io/arcenal-catalog
 ```
 
 ARCenal Agent est basé sur Hermes Agent par Nous Research.
