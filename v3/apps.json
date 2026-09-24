@@ -8,12 +8,12 @@
       "featured": true,
       "git": {
         "branch": "main",
-        "revision": "551be483de36d4b52f1ec7b39b2503c68f04b513",
+        "revision": "12abc2727d957d81f3c658c0892c4a3a4f7ddf2e",
         "url": "https://github.com/arcenal-coder/arcenal_ynh"
       },
       "high_quality": true,
       "id": "arcenal",
-      "lastUpdate": 1790237421,
+      "lastUpdate": 1790264370,
       "level": 8,
       "maintained": true,
       "manifest": {
@@ -40,7 +40,7 @@
           "license": "MIT",
           "website": "https://github.com/arcenal-coder/arcenal-agent"
         },
-        "version": "0.21.0~ynh29"
+        "version": "0.21.0~ynh30"
       },
       "potential_alternative_to": [],
       "state": "working",
