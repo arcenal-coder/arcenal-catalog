@@ -1,5 +1,50 @@
 {
   "apps": {
+    "arcenal_ats": {
+      "added_in_catalog": 1790341978,
+      "alternative_branches": {},
+      "antifeatures": [],
+      "category": "productivity_and_management",
+      "featured": false,
+      "git": {
+        "branch": "stable",
+        "revision": "68400df880f8b791a85103dd85d9e5f998f2fa62",
+        "url": "https://github.com/arcenal-coder/arcenal-ats"
+      },
+      "high_quality": false,
+      "id": "arcenal_ats",
+      "lastUpdate": 1790341978,
+      "level": 1,
+      "maintained": true,
+      "manifest": {
+        "description": {
+          "en": "Autonomous recruitment and careers portal",
+          "fr": "Gestion du recrutement et portail carrière autonome"
+        },
+        "id": "arcenal_ats",
+        "integration": {
+          "architectures": "all",
+          "disk": "100M",
+          "helpers_version": "2.1",
+          "ldap": true,
+          "multi_instance": true,
+          "ram": {"build": "300M", "runtime": "150M"},
+          "sso": true,
+          "yunohost": ">= 11.2"
+        },
+        "maintainers": ["ARCenal"],
+        "name": "ARCenal ATS",
+        "packaging_format": 2,
+        "upstream": {
+          "code": "https://github.com/arcenal-coder/arcenal-ats",
+          "license": "AGPL-3.0-or-later"
+        },
+        "version": "0.1.0~ynh1"
+      },
+      "potential_alternative_to": [],
+      "state": "working",
+      "subtags": []
+    },
     "arcenal": {
       "added_in_catalog": 1789257600,
       "alternative_branches": {},
